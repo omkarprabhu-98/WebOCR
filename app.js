@@ -7,10 +7,17 @@ var bodyParser = require('body-parser');
 
 var index = require('./routes/index');
 var users = require('./routes/users');
+
 var tesseract = require('./libs/node-tesseract');
 
+var options = {
+    l: 'eng',
+    binary: './libs/tesseract',
+    config: '--tessdata "./libs/tesseract-ocr/tessdata"'
+};
 
-tesseract.process('c-s.png',  function(err, text){
+
+tesseract.process('c-s.png', options, function(err, text){
     if(err){
         return console.log("An error occured: ", err);
     }
