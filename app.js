@@ -5,19 +5,17 @@ var logger = require('morgan');
 var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
-var index = require('./routes/index');
-var users = require('./routes/users');
+var ocr = require('./routes/ocr');
 
 var tesseract = require('./libs/node-tesseract');
 
 var options = {
     l: 'eng',
     binary: './libs/tesseract',
-    config: '--tessdata "./libs/tesseract-ocr/tessdata"'
+    config: '--tessdata "./tessdata"'
 };
 
-
-tesseract.process('c-s.png', options, function(err, text){
+tesseract.process('b.jpg', options, function(err, text){
     if(err){
         return console.log("An error occured: ", err);
     }
@@ -41,8 +39,8 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
-app.use('/', index);
-app.use('/users', users);
+app.use('/api/ocr', ocr);
+
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
