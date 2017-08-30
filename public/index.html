@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>WebOcr</title>
+    <link rel="stylesheet" href="main.css">
+</head>
+
+<body ng-app="WebOcr" ng-controller="Ct">
+
+
+    <input type="file" id="the-photo-file-field"  onchange="angular.element(this).scope().selectedFile(files[0])">
+    <button id="upload" ng-click="up()">Upload</button>
+
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.2.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.6/angular.min.js"></script>
+
+    <script src="main.js"></script>
+
+</body>
+</html>

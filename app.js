@@ -7,24 +7,6 @@ var bodyParser = require('body-parser');
 
 var ocr = require('./routes/ocr');
 
-var tesseract = require('./libs/node-tesseract');
-
-var options = {
-    l: 'eng',
-    binary: './libs/tesseract',
-    config: '--tessdata "./tessdata"'
-};
-
-tesseract.process('b.jpg', options, function(err, text){
-    if(err){
-        return console.log("An error occured: ", err);
-    }
-
-    console.log("Recognized text:");
-    // the text variable contains the recognized text
-    console.log(text);
-});
-
 var app = express();
 
 // view engine setup
