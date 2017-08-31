@@ -26,11 +26,7 @@ router.post('/', upload.single('file'), function(req, res) {
         }
 
         console.log("Recognized text:");
-
-
         console.log(text);
-
-
         res.send(text);
     });
 

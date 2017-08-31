@@ -116,7 +116,11 @@ nav.active{
     font-size: 20px;
 }
 
-
+/* preview */
+#preview{
+    width: 500px;
+    height: 500px;
+}
 
 /* ocr */
 
@@ -131,7 +135,16 @@ nav.active{
     align-items: center;
     align-content: center;
 }
-button {
+
+#file{
+    width: 0.1px;
+    height: 0.1px;
+    opacity: 0;
+    overflow: hidden;
+    position: absolute;
+    z-index: -1;
+}
+button, label{
     background-color: white;
     border-radius: 100px !important;
     padding: 10px 30px  !important;
@@ -160,8 +173,8 @@ button {
         font-size: 13px;
     }
 
-    .steps{
-        padding: 50px 10px 90px 10px;
+    .steps, .ocr{
+        padding: 50px 10px 50px 10px;
     }
 
     .steps b{
@@ -170,6 +183,13 @@ button {
 
     .steps p{
         font-size: 12px;
+    }
+
+    .ocr b{
+        font-size: 14px;
+    }
+    .ocr label{
+        font-size: 16px !important;
     }
 
 }
@@ -185,6 +205,13 @@ button {
 
     .descip{
         font-size: 20px;
+    }
+
+    .ocr b{
+        font-size: 14px;
+    }
+    .ocr label{
+        font-size: 14px;
     }
 }
 

@@ -55,8 +55,17 @@
         </div>
 
         <div class="ocr">
-            <input type="file" onchange="angular.element(this).scope().selectedFile(files[0])" value="Select">
+            <input type="file" name="file" id="file" onchange="angular.element(this).scope().selectedFile(files[0])" value="Select">
+            <label for="file">Choose a file</label>
             <button id="upload" ng-click="up()"><b>Upload</b></button>
+        </div>
+
+        <div id="preview" ></div>
+
+        <div>
+            <p ng-bind="ocrText">
+
+            </p>
         </div>
 
     </div>
