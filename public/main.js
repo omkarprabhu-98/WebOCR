@@ -6,15 +6,12 @@ var app = angular.module('WebOcr',[]);
 
 app.controller('Ct',function($http, $scope){
 
-    // $scope.scrolled = false;
-
     // formData object
     var formD = new FormData();
 
     // upload
     $scope.up = function () {
-
-
+        $('.preloader').addClass('loader');
         $http(
             {
                 method: 'POST',
@@ -25,6 +22,7 @@ app.controller('Ct',function($http, $scope){
             }
         ).then(
             function successCallback(response) {
+                $('.preloader').removeClass('loader');
                 var data = response.data;
                 console.log(data);
                 $scope.ocrText = data;
@@ -33,6 +31,7 @@ app.controller('Ct',function($http, $scope){
         )
     };
 
+    // select file
     $scope.selectedFile = function(file){
         // $('#preview').css('display','block');
         // add file to key 'file'
@@ -44,6 +43,7 @@ app.controller('Ct',function($http, $scope){
         renderImage(file);
     };
 
+    // scroll check for fade in
     $(window).scroll(function () {
         if ($(window).scrollTop() > 300) {
 
@@ -57,21 +57,24 @@ app.controller('Ct',function($http, $scope){
 
             $('.ocr').addClass('active');
         }
-
-
-
     });
 
+    //  display img in div
     var renderImage = function (file){
         var reader = new FileReader();
         reader.onload = function(event) {
             the_url = event.target.result;
-            $('#preview').html("<img src='" + the_url + "' width='500' height='500'/>");
+
+            var screenWidth = $(window).width();
+            console.log(screenWidth);
+            if (screenWidth < 700){
+                $('#preview').html("<img src='" + the_url + "' width='200' height='200'/>");
+            }else{
+                $('#preview').html("<img src='" + the_url + "' width='400' height='400'/>");
+            }
             $('#name').html(file.name);
 
         };
-
-        //when the file is read it triggers the onload event above.
         reader.readAsDataURL(file);
     }
 
