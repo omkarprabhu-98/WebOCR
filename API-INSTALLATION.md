@@ -57,4 +57,15 @@
 		sudo mv tessdata $TESSDATA_PREFIX	
 	```
 
+## Node tesseract
+1. Cloned the repository 
+	
+	```
+		git clone https://github.com/desmondmorris/node-tesseract.git
+	```
+2. Installed dependencies for uuid, mocha, glob
+	
+	```
+	    npm install
+	```    
     		
