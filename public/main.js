@@ -6,6 +6,8 @@ var app = angular.module('WebOcr',[]);
 
 app.controller('Ct',function($http, $scope){
 
+    // $scope.scrolled = fals;
+
     // formData object
     var formD = new FormData();
 
@@ -34,7 +36,24 @@ app.controller('Ct',function($http, $scope){
         formD.append('file', file);
     };
 
+    $(window).scroll(function () {
+        console.log($(window).scrollTop());
+        if ($(window).scrollTop() > 300) {
 
+            $('nav').addClass('active');
+        }
+        if ($(window).scrollTop() > 400) {
+
+            $('.steps').addClass('active');
+        }
+        if ($(window).scrollTop() > 600) {
+
+            $('.ocr').addClass('active');
+        }
+
+
+
+    });
 
 });
 

@@ -1,0 +1,194 @@
+body{
+    font-family: 'Ubuntu', sans-serif !important;
+    overflow: scroll;
+}
+.container2{
+
+    display: flex !important;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+
+/* navbar */
+nav{
+    display: none !important;
+}
+nav.active{
+
+    display: block !important;
+    opacity:0;  /* make things invisible upon start */
+    -webkit-animation:fadeIn ease-in 1;
+    -moz-animation:fadeIn ease-in 1;
+    animation:fadeIn ease-in 1;
+
+    -webkit-animation-fill-mode:forwards;
+    -moz-animation-fill-mode:forwards;
+    animation-fill-mode:forwards;
+
+    -webkit-animation-duration:1s;
+    -moz-animation-duration:1s;
+    animation-duration:1s;
+}
+
+.navbar-header{
+    display: flex;
+    flex-direction: row;
+}
+
+
+
+/* about */
+.about{
+    display:flex;
+    margin: 300px 0 250px 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+
+    opacity:0;  /* make things invisible upon start */
+    -webkit-animation:fadeIn ease-in 1;
+    -moz-animation:fadeIn ease-in 1;
+    animation:fadeIn ease-in 1;
+
+    -webkit-animation-fill-mode:forwards;
+    -moz-animation-fill-mode:forwards;
+    animation-fill-mode:forwards;
+
+    -webkit-animation-duration:4s;
+    -moz-animation-duration:4s;
+    animation-duration:4s;
+
+}
+
+.about b{
+    font-size: 36px;
+}
+
+.about .descip{
+    font-size: 24px;
+}
+
+
+/* about ocr */
+.steps{
+    width: 100vw;
+    opacity:0;
+    background-color: #eef7fa;
+    padding: 100px 0 80px 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+.what, .how{
+    display:flex;
+    margin-bottom: 100px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+
+.steps.active, .ocr.active{
+
+    -webkit-animation:fadeIn ease-in 1;
+    -moz-animation:fadeIn ease-in 1;
+    animation:fadeIn ease-in 1;
+
+    -webkit-animation-fill-mode:forwards;
+    -moz-animation-fill-mode:forwards;
+    animation-fill-mode:forwards;
+
+    -webkit-animation-duration:1s;
+    -moz-animation-duration:1s;
+    animation-duration:1s;
+}
+
+.steps b{
+    font-size: 28px;
+    padding: 10px;
+}
+.steps p {
+    font-size: 20px;
+}
+
+
+
+/* ocr */
+
+.ocr{
+    display: flex;
+    background-color: white;
+    width: 100vw;
+    opacity:0;
+    padding: 100px 0 80px 0;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+}
+button {
+    background-color: white;
+    border-radius: 100px !important;
+    padding: 10px 30px  !important;
+    border: 2px solid #76B3FA!important;
+    color: #000 !important;
+    text-decoration: none !important;
+    font-size: 1.45em !important;
+    margin: 0 15px !important;
+}
+
+.ocr{
+
+}
+
+/* responsive */
+@media only screen and (max-width: 576px) {
+
+    .about{
+        margin: 260px 0 50px 0;
+    }
+    .about b{
+        font-size: 24px;
+    }
+
+    .about .descip{
+        font-size: 13px;
+    }
+
+    .steps{
+        padding: 50px 10px 90px 10px;
+    }
+
+    .steps b{
+        font-size: 18px;
+    }
+
+    .steps p{
+        font-size: 12px;
+    }
+
+}
+
+@media only screen and (max-width: 700px) {
+
+    .about{
+        margin: 300px 0 300px 0;
+    }
+    b{
+        font-size: 33px;
+    }
+
+    .descip{
+        font-size: 20px;
+    }
+}
+
+/* animation for fadeIn */
+@-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@-moz-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
+@keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
