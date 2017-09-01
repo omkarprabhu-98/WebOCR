@@ -188,9 +188,9 @@ button, label{
     overflow: auto;
 }
 
-#ocrRes p{
-    font-size: large;
-}
+/*#ocrRes pre{*/
+    /*font-size: large;*/
+/*}*/
 
 .loader {
     border: 4px solid #f3f3f3;
@@ -262,9 +262,9 @@ button, label{
         overflow: auto;
     }
 
-    #ocrRes p{
-        font-size: small;
-    }
+    /*#ocrRes pre{*/
+        /*font-size: small;*/
+    /*}*/
 
     button, label{
         margin: 0 15px !important;

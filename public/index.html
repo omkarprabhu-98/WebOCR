@@ -73,9 +73,8 @@
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12 column">
                     <div id="ocrRes">
-                        <p ng-bind="ocrText">
                         <div class="preloader"></div>
-                        </p>
+                        <pre ng-show="ocrText.length">{{ocrText}}</pre>
                     </div>
                 </div>
             </div>
