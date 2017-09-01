@@ -1,68 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6c69927-b2af-4d9f-8a52-4a7161c55349" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/0196ab0558e39399af1244e09600ce20" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/058e2503bad0f1e299b55138423e167a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/10d89b1487fb84733d6c4c4df45e8ef4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/1249bdee4d9122aa06fa092708cbaff4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/1765d9eb48135593c617c1866c474d3d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/2ae3336af33edf46e2e0bee1bc898a73" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/2d78274bf1b4e1a0c7e45f406daf70d4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/2ee9b430148666069374dfc15fa05ee3" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/2fc23fbd0060a550c416a1f669c65dd6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/313b2a882ae54a4c9543ed5b4b3c247e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/3fbd9a0c8142d2a62fcfd6877c5fe0ec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/45252f9a230369e3e70586bf877b1f6e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/46d707e0307cb76f0c6496fb611dce56" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/4bfedd3b65b42aeef681aaa99bd6db71" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/52bb8366ad344c5ab113f555dd16d46f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/551a9e206b0793cac499d0d51decd2d9" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/58c1273c30b388c9ae3ec29318f76962" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/59cf6214a4eb1ba8cc0a0e0ec1406634" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/5b0c45580966cb0fa75459d2d1ed0a6f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/5c7bc22b1cf33407575a2dcb6c9b03cc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/5e0e5cbd109e96d2b0c1b5e4e0462bcc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/630380898d1c1cfcc3cabdbf3e79dbef" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/6443b1e0cda019b73f51762455e80b8f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/6bd8910095381b7193319a30ddbb51d4" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/71d38d8660596051d3fd6cd7400a7d1e" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/726f96a21e88b75bad977564b8cf3df8" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/75dc30199141878ee2878d1142d4a914" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/7d6daa16df25cbb64b5c4acb9341ba53" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/805d1b3fd070d271ca7b181111cffa03" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/87a12f3247b5836a44899dfbe4addf39" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/8a10680e221a784a7b53c4aa713cb3fb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/901f4958c15cee2ac96e5811a3db43e2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/94af7c8c02fb2f47d9990572b9f174ee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/979a0230df0370c83e1da70201681ef6" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/98182203c0b0753dd074f9d6812e1858" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/9b4772b3925c1fe3824201a8db1dca93" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/9b517c3af7ec212fc84d629c4a9ba075" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/9bb5f31a42c6442e603eebbf68ec284a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/9bf956addd6dc38f05fdb9ed55511bdf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/a1e66405432b9cabda3737baf6c16763" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/a82b5eedaafc84c260b5e1229b70b6fc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/b073cdae63400992ec36d9f97e2ef68c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/b327877c23880dcd2b78bf5a77aab71b" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/bf3c3288f960290bcf29f28e91d91290" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/c60142fd88a8f18a1e6229c435cd217f" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/c8ff9d91193c46e1307a2af15bfa8306" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/ce539f1c68cf1c330d3ebd8bf12bcf19" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/cfdc5fe3df0ca24c916d68435c4cf059" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/d15d3269737f33cbd6f46e843f96c62a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/d390bd4bbffa98caffa3b4dec3f317a2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/d54b81c578dbc8fc50dc23ba6f3a423c" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/d90bce03c095e3836eb8263493e8c59a" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/db5742eede314c3ed3bda524d407fcce" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/e34f8d04c00c2fae1c93f713ea87a507" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/f661b8c96111b2673fd7b80e30615176" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/fa9fb9c5b99949861ef7fa204c85abaf" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res.jpeg" afterPath="$PROJECT_DIR$/res.jpeg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API-INSTALLATION.md" afterPath="$PROJECT_DIR$/API-INSTALLATION.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="b6c69927-b2af-4d9f-8a52-4a7161c55349" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -400,12 +339,12 @@
       <workItem from="1504172910959" duration="1893000" />
       <workItem from="1504195510880" duration="7034000" />
       <workItem from="1504234572961" duration="12700000" />
-      <workItem from="1504251195835" duration="1085000" />
+      <workItem from="1504251195835" duration="1288000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="70294000" />
+    <option name="totallyTimeSpent" value="70497000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
