@@ -63,7 +63,7 @@
 	```
 		git clone https://github.com/desmondmorris/node-tesseract.git
 	```
-2. Installed dependencies for uuid, mocha, glob
+2. Installed dependencies for uuid, glob
 	
 	```
 	    npm install

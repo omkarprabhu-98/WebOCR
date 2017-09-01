@@ -2,13 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6c69927-b2af-4d9f-8a52-4a7161c55349" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/54622df7aae84a2ef7384da16a2cf75d" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/a51c0d5a858ddcc4ae6dc0e48991263f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/0196ab0558e39399af1244e09600ce20" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/058e2503bad0f1e299b55138423e167a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/10d89b1487fb84733d6c4c4df45e8ef4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/1249bdee4d9122aa06fa092708cbaff4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/1765d9eb48135593c617c1866c474d3d" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/2ae3336af33edf46e2e0bee1bc898a73" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/2d78274bf1b4e1a0c7e45f406daf70d4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/2ee9b430148666069374dfc15fa05ee3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/2fc23fbd0060a550c416a1f669c65dd6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/313b2a882ae54a4c9543ed5b4b3c247e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/3fbd9a0c8142d2a62fcfd6877c5fe0ec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/45252f9a230369e3e70586bf877b1f6e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/46d707e0307cb76f0c6496fb611dce56" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/4bfedd3b65b42aeef681aaa99bd6db71" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/52bb8366ad344c5ab113f555dd16d46f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/551a9e206b0793cac499d0d51decd2d9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/58c1273c30b388c9ae3ec29318f76962" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/59cf6214a4eb1ba8cc0a0e0ec1406634" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/5b0c45580966cb0fa75459d2d1ed0a6f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/5c7bc22b1cf33407575a2dcb6c9b03cc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/5e0e5cbd109e96d2b0c1b5e4e0462bcc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/630380898d1c1cfcc3cabdbf3e79dbef" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/6443b1e0cda019b73f51762455e80b8f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/6bd8910095381b7193319a30ddbb51d4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/71d38d8660596051d3fd6cd7400a7d1e" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/726f96a21e88b75bad977564b8cf3df8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/75dc30199141878ee2878d1142d4a914" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/7d6daa16df25cbb64b5c4acb9341ba53" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/805d1b3fd070d271ca7b181111cffa03" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/87a12f3247b5836a44899dfbe4addf39" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/8a10680e221a784a7b53c4aa713cb3fb" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/901f4958c15cee2ac96e5811a3db43e2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/94af7c8c02fb2f47d9990572b9f174ee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/979a0230df0370c83e1da70201681ef6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/98182203c0b0753dd074f9d6812e1858" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/9b4772b3925c1fe3824201a8db1dca93" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/9b517c3af7ec212fc84d629c4a9ba075" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/9bb5f31a42c6442e603eebbf68ec284a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/9bf956addd6dc38f05fdb9ed55511bdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/a1e66405432b9cabda3737baf6c16763" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/a82b5eedaafc84c260b5e1229b70b6fc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/b073cdae63400992ec36d9f97e2ef68c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/b327877c23880dcd2b78bf5a77aab71b" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/bf3c3288f960290bcf29f28e91d91290" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/c60142fd88a8f18a1e6229c435cd217f" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/c8ff9d91193c46e1307a2af15bfa8306" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/ce539f1c68cf1c330d3ebd8bf12bcf19" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/cfdc5fe3df0ca24c916d68435c4cf059" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/d15d3269737f33cbd6f46e843f96c62a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/d390bd4bbffa98caffa3b4dec3f317a2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/d54b81c578dbc8fc50dc23ba6f3a423c" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/d90bce03c095e3836eb8263493e8c59a" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/db5742eede314c3ed3bda524d407fcce" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/e34f8d04c00c2fae1c93f713ea87a507" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/f661b8c96111b2673fd7b80e30615176" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/uploads/fa9fb9c5b99949861ef7fa204c85abaf" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res.jpeg" afterPath="$PROJECT_DIR$/res.jpeg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/index.html" afterPath="$PROJECT_DIR$/public/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/main.css" afterPath="$PROJECT_DIR$/public/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/ocr.js" afterPath="$PROJECT_DIR$/routes/ocr.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/API-INSTALLATION.md" afterPath="$PROJECT_DIR$/API-INSTALLATION.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,21 +86,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="400">
+              <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ocr.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ocr.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/ocr.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="140">
-              <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+            <state relative-caret-position="359">
+              <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
               <folding>
                 <element signature="e#0#39#0" expanded="false" />
               </folding>
@@ -58,8 +111,8 @@
       <file leaf-file-name="www" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bin/www">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="20">
-              <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+            <state relative-caret-position="100">
+              <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -68,8 +121,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+            <state relative-caret-position="1640">
+              <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#b#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -81,8 +134,8 @@
       <file leaf-file-name="main.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="257" column="0" lean-forward="true" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
+            <state relative-caret-position="5140">
+              <caret line="257" column="0" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -91,8 +144,8 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+            <state relative-caret-position="540">
+              <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -118,13 +171,13 @@
         <option value="$PROJECT_DIR$/routes/index.js" />
         <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/public/main.js" />
-        <option value="$PROJECT_DIR$/API-INSTALLATION.md" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/bin/www" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/public/main.css" />
         <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/routes/ocr.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/API-INSTALLATION.md" />
       </list>
     </option>
   </component>
@@ -159,53 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebOCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebOCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebOCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebOCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebOCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="WebOCR" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="libs" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="node-tesseract" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="Scratches" />
       <pane id="Scope">
         <subPane subId="Project Files">
           <PATH>
@@ -220,10 +226,25 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebOCR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="WebOCR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="nodejs_interpreter_path" value="/usr/bin/nodejs" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
     <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="javascript.nodejs.core.library.configured.version" value="4.2.6" />
     <property name="last_opened_file_path" value="$USER_HOME$/Pictures/Wallpapers/b.jpg" />
@@ -378,12 +399,13 @@
       <workItem from="1504142991384" duration="12000" />
       <workItem from="1504172910959" duration="1893000" />
       <workItem from="1504195510880" duration="7034000" />
-      <workItem from="1504234572961" duration="7951000" />
+      <workItem from="1504234572961" duration="12700000" />
+      <workItem from="1504251195835" duration="1085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64460000" />
+    <option name="totallyTimeSpent" value="70294000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -397,13 +419,13 @@
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1301" height="744" extended-state="6" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23865415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23865415" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40712073" sideWeight="0.5062598" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6687307" sideWeight="0.49374023" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972136" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960877" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.82043344" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.82043344" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3993808" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -713,21 +735,6 @@
     <entry file="file://$PROJECT_DIR$/routes/index.js" />
     <entry file="file://$PROJECT_DIR$/public/stylesheets/style.css" />
     <entry file="file:///media/omkar/92D29173D2915C73/Users/Admin/WebstormProjects/CashbackCompany/index.html" />
-    <entry file="file://$PROJECT_DIR$/API-INSTALLATION.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1380">
-            <caret line="69" column="11" lean-forward="false" selection-start-line="69" selection-start-column="11" selection-end-line="69" selection-end-column="11" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/npm-debug.log" />
     <entry file="file://$PROJECT_DIR$/app.js">
       <provider selected="true" editor-type-id="text-editor">
@@ -741,7 +748,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -764,6 +770,49 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1640">
+          <caret line="82" column="0" lean-forward="false" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#b#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5140">
+          <caret line="257" column="0" lean-forward="false" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bin/www">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="20" column="3" lean-forward="true" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -772,64 +821,37 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="299">
-            <caret line="33" column="4" lean-forward="true" selection-start-line="33" selection-start-column="4" selection-end-line="33" selection-end-column="4" />
+          <first_editor relative-caret-position="120">
+            <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="27" column="38" lean-forward="true" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/API-INSTALLATION.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/www">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="20">
-          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="82" column="0" lean-forward="true" selection-start-line="82" selection-start-column="0" selection-end-line="82" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#span#0;n#a#0;n#div#0;n#nav#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#span#0;n#b#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="1420">
+            <caret line="71" column="0" lean-forward="true" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/ocr.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        <state relative-caret-position="359">
+          <caret line="29" column="24" lean-forward="true" selection-start-line="29" selection-start-column="24" selection-end-line="29" selection-end-column="24" />
           <folding>
             <element signature="e#0#39#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="257" column="0" lean-forward="true" selection-start-line="257" selection-start-column="0" selection-end-line="257" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
