@@ -33,5 +33,10 @@ The app is hosted here :
 ## Contributing    
     
 ## Limitations
+The projects is dependent on the Tesseract API functions
+* Best results come if a image of resolution atleast 300dpi is provided
+* For better results tesseract converts the image to black and white which may go horribly wrong if the image has different lighting conditions in different parts
+* Noise which is variations in color of image can result in lower accuracy
+* Position of text in image if not horizontal is almost unreadable to tesseract
     
     
